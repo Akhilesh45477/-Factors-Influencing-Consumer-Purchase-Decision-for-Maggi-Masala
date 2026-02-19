@@ -1,7 +1,4 @@
-# Factors-Influencing-Consumer-Purchase-Decision-for-Maggi-Masala
-🔹 Project Title
-
-Factors Influencing Consumer Purchase Decision for Maggi Masala
+# Factors-Influencing-Consumer-Purchase-Decision-for-Maggi-Masal
 
 🔹 Overview
 
